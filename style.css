@@ -21,3 +21,33 @@ th, td{
 .table4{
 	text-align: left;
 }
+#yellow{
+	background-color: yellow;
+}
+#red{
+	background-color: red;
+}
+#blue{
+	background-color: blue;
+}
+#green{
+	background-color: green;
+}
+#fuchsia{
+	background-color: fuchsia;
+}
+#table333{
+	border-color: brown;
+	border-style: dotted;
+	border-width: 5px;
+	background-color: white;
+	margin: 40px 0px;
+}
+#table333 td{
+	border-width: 1px;
+	border-style: dashed;
+	border-color: white;
+}
+body{
+	background-color: aquamarine;
+}
