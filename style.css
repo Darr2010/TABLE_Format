@@ -51,3 +51,31 @@ th, td{
 body{
 	background-color: aquamarine;
 }
+#table777{
+	width: 300px;
+	height: 300px;
+	border-collapse: collapse;
+	border: none;
+	background-color: none;
+}
+.yelloww{
+	background-color: yellow;
+}
+.orangee{
+	background-color: orange;
+}
+#pinkk{
+	background-color: fuchsia;
+}
+.grennn{
+	background-color: green;
+}
+#bluee{
+	background-color: blue;
+}
+#redd{
+	background-color: red;
+}
+td{
+	border: none;
+}
