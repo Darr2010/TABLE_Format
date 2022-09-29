@@ -56,7 +56,9 @@ body{
 	height: 300px;
 	border-collapse: collapse;
 	border: none;
-	background-color: none;
+}
+#table777 td{
+	border: none;
 }
 .yelloww{
 	background-color: yellow;
@@ -76,6 +78,5 @@ body{
 #redd{
 	background-color: red;
 }
-td{
-	border: none;
-}
+
+
